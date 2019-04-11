@@ -28,3 +28,8 @@ Then, by using Support Machine Vector Machine, the data was classified with 100 
   * Sensor1 = "sec1_9952_sensor1"
   * Sensor2 = "sec1_992B_sensor2" 
 The process of pre-processing data, visualization of the data, taking mean, variance, standard deviation of samples and creating a final dataset is shown in "**section_process_of_creating_dataset_april.ijmp**"
+
+Then, for a section 200Mb of data: mean, standard variation and variation is taken which is shown in **Figure 2**. Classification is done using Support Vector Machine, and the SVM classfication is shown in **Figure 3**, and the script is provided under "**code_svm.py**"
+
+Spectrogram of Sensors were tired to obtain which is shown in "**spectrogram_images**"
+This will be used to classify the data using CNN (Convolutional Neural Network)
