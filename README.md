@@ -27,3 +27,4 @@ Then, by using Support Machine Vector Machine, the data was classified with 100 
 * Data from sensors:
   * Sensor1 = "sec1_9952_sensor1"
   * Sensor2 = "sec1_992B_sensor2" 
+The process of pre-processing data, visualization of the data, taking mean, variance, standard deviation of samples and creating a final dataset is shown in "**section_process_of_creating_dataset_april.ijmp**"
