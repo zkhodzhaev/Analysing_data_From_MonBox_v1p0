@@ -1,4 +1,4 @@
-# Reading data from MonBox v1.0 and analysing data:
+# Reading data/ classification of data from MonBox v1.0 and analysing data:
 Report for Routers/ Sensors data and its classification done do far
 
 The data we obtained before are:
